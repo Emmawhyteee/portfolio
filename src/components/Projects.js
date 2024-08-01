@@ -31,7 +31,7 @@ const Projects = () => {
                 </p>
                 
                 <p className="mt-4">Experienced in both functional and
-                  OOP: Dart, Python, Java, JavaScript, TypeScript.</p>
+                  OOP: Python,Vanilla JavaScript,jquery  | TypeScript.</p>
              </div>
             </div>
           </div>
