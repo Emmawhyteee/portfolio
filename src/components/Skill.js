@@ -67,10 +67,10 @@ const Skills = () => {
           </div>
         </div>
         {/* card loop_section */}
-        <div className="row row-cols-xl-3 loopcard"  data-aos="fade-up" data-aos-duration="3000">
+        <div className="row row-cols-xl-3 "  data-aos="fade-up" data-aos-duration="3000">
         {Project.map((proj => {
           return (
-            <div className="col-10">
+            <div className="col-10 loopcard">
             <div className="card mt-5  mx-2 projectimg " >
               <img src={proj.Image} className="card-img-top " alt="e-commerce" />
              
