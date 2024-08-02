@@ -20,16 +20,17 @@ const Contact = () => {
         aria-expanded="true"
         aria-controls="collapseOne"
       >
-        Accordion Item #1
+       Web Developer @ BT-Brandings Nigeria &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2024 - present
       </button>
     </h2>
     <div
       id="collapseOne"
-      className="accordion-collapse collapse show"
+      className="accordion-collapse collapse show accordd"
       data-bs-parent="#accordionExample"
     >
       <div className="accordion-body">
-       111
+                  <p>Developed the UI and UX eco-system for an e-commerce website using ReactJs component structures with bootstrap css.</p>
+                  <p><a className='btn btn-primary'>JS</a><a className='btn btn-primary me-1 ms-1'>React</a><a className='btn btn-primary'>css</a></p>
       </div>
     </div>
   </div>
@@ -43,7 +44,7 @@ const Contact = () => {
         aria-expanded="false"
         aria-controls="collapseTwo"
       >
-        Accordion Item #2
+       Fullstack web Developer intern @ Moat Academy &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  - 2024 
       </button>
     </h2>
     <div
@@ -52,7 +53,8 @@ const Contact = () => {
       data-bs-parent="#accordionExample"
     >
       <div className="accordion-body">
-        222
+      <p>Developed the UI and UX eco-system  and designed the Database for an e-commerce website using python(Flask) framework</p>
+      <p><a className='btn btn-primary'>python</a><a className='btn btn-primary me-1 ms-1'>j-Query</a><a className='btn btn-primary'>css</a></p>
       </div>
     </div>
   </div>
@@ -66,7 +68,7 @@ const Contact = () => {
         aria-expanded="false"
         aria-controls="collapseThree"
       >
-        Accordion Item #3
+       <p>Web Developer intern @Echub Africa &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;   2023 - 2024</p>
       </button>
     </h2>
     <div
@@ -75,7 +77,7 @@ const Contact = () => {
       data-bs-parent="#accordionExample"
     >
       <div className="accordion-body">
-       3333
+       
       </div>
     </div>
   </div>

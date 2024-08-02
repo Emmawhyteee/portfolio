@@ -48,7 +48,7 @@ const Skills = () => {
           <div className="projectdirection features-image phone col-lg-2 ">
             <img src={img2} alt="project_direction" />
             <a
-              className="btn btn-info ms-5 viewproj"
+              className="btn btn-info ms-4 viewproj"
               href="https://affordableluxury.pythonanywhere.com/"
             >
               View project

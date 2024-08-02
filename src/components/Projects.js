@@ -45,7 +45,7 @@ const Projects = () => {
 
                 <h3 className="mt-3">
                   Frontend Dev<div className="underlineeffect2"></div>
-                  <br /> React, NextJS
+                  <br /> React
                 </h3>
               </div>
 
@@ -57,7 +57,7 @@ const Projects = () => {
               </p>
 
                 <p className="mt-4">Passionate about UI/UX. Over 3 years of development
-                  experience in HTML, CSS, JS, React and NextJS frameworks.</p>
+                  experience in HTML, CSS, JS,and React and Designing frameworks.</p>
              </div>   
               
             </div>
