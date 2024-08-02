@@ -8,7 +8,7 @@ const Contact = () => {
           <h1>PROFESSIONAL<br />EXPERIENCE</h1>
         </div>
         {/* accordion part start */}
-        <div className='container' style={{width:600,backgroundColor:' rgb(107, 107, 248)'}}>
+        <div className='container accordionwidth' style={{width:600,backgroundColor:' rgb(107, 107, 248)'}}>
           <div className="accordion" id="accordionExample">
   <div className="accordion-item">
     <h2 className="accordion-header">
