@@ -31,7 +31,7 @@ const Projects = () => {
                 </p>
                 
                 <p className="mt-4">Experienced in both functional and
-                  OOP: Python,Vanilla JavaScript,jquery  | TypeScript.</p>
+                  OOP: Python,Vanilla JavaScript,jquery.</p>
              </div>
             </div>
           </div>
@@ -57,7 +57,7 @@ const Projects = () => {
               </p>
 
                 <p className="mt-4">Passionate about UI/UX. Over 3 years of development
-                  experience in HTML, CSS, JS,and React and Designing frameworks.</p>
+                  experience in HTML, CSS, JS, and Bootstrap Designing frameworks.</p>
              </div>   
               
             </div>

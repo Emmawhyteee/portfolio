@@ -37,7 +37,7 @@ const Skills = () => {
               WORK
             </h1>
             <p>
-              Deployed scalable e-commerce website, and hybrid mobile apps using
+              Recently Deployed a scalable e-commerce website, and hybrid mobile apps using
               React SPA and PWA. Collaborated in various projects with clients
               all around the world.
             </p>
@@ -70,7 +70,7 @@ const Skills = () => {
         <div className="row row-cols-xl-3"  data-aos="fade-up" data-aos-duration="3000">
         {Project.map((proj => {
           return (
-            <div className="col">
+            <div className="col-10">
             <div className="card mt-5  mx-2 projectimg " >
               <img src={proj.Image} className="card-img-top " alt="e-commerce" />
              

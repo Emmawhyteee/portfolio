@@ -3,7 +3,7 @@ import moi from '../assets2/latest.png'
 
 const Contact = () => {
     return (
-      <div className="container-fluid my-5" style={{ backgroundColor: '#1A1C2B', color: 'white' }}>
+      <div className="container-fluid my-5"  style={{ backgroundColor: '#1A1C2B', color: 'white' }}>
         <div className='my-5 text-center mx-auto'>
           <h1>PROFESSIONAL<br />EXPERIENCE</h1>
         </div>
@@ -86,7 +86,7 @@ const Contact = () => {
    </div>
      
         {/* accordion part end */}
-  <div className="row justify-content-center align-items-center">
+  <div className="row justify-content-center align-items-center" id='contact'>
 
     <div className="col-md-6">
             <div className="speech-bubble mt-4 ml-3">
@@ -99,16 +99,16 @@ const Contact = () => {
             <div className="social-icons">
           {/*social icon  */}
           <a href="mailto:emmatexiii@gmail.com">
-           <i className="fa-regular fa-envelope "></i>
+           <i className="fa-regular fa-envelope fa-2x "></i>
           </a>
           &nbsp;
           <a href="https://x.com/Emmawhyteee?t=P0QMyAuhAXtZ9vA3hViQSw&s=09">
-          <i className="fa-brands fa-twitter px-1"></i>
+          <i className="fa-brands fa-twitter px-1 fa-2x"></i>
            
           </a>
           &nbsp;
           <a href="http://www.linkedin.com/in/emmanuel-ebuka-nwankwo-32227a120">
-          <i className="fa-brands fa-linkedin"></i>
+          <i className="fa-brands fa-linkedin fa-2x"></i>
 
           </a>
         
