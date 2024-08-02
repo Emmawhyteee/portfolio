@@ -327,6 +327,10 @@ h1 {
   .accordionwidth{
     width: 300px !important;
   }
+
+  .projectimg{
+    width: auto !important;
+  }
 } 
 
 /* ////////////////////////////////////////////////// */
