@@ -225,7 +225,7 @@ h1 {
  @media (max-width: 767px) {
 
   body{
-    overflow-x: hidden;
+    overflow-x: hidden !important;
   }
 
   .namee {
@@ -261,7 +261,7 @@ h1 {
  @media (max-width: 420px) {
 
   body{
-    overflow-x: hidden;
+    overflow-x: hidden !important;
   }
 
   .namee {
@@ -296,7 +296,7 @@ h1 {
  @media (max-width: 320px) {
 
   body{
-    overflow-x: hidden;
+    overflow-x: hidden !important;
   }
 
   .namee {
