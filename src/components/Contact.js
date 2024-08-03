@@ -99,7 +99,7 @@ const Contact = () => {
             <div className="social-icons">
           {/*social icon  */}
           <a href="mailto:emmatexiii@gmail.com">
-           <i className="fa-regular fa-envelope fa-2x "></i>
+           <i className="fa-regular fa-envelope fa-2x " ></i>
           </a>
           &nbsp;
           <a href="https://x.com/Emmawhyteee?t=P0QMyAuhAXtZ9vA3hViQSw&s=09">
