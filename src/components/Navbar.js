@@ -73,7 +73,7 @@ const Navbar = () => {
                     <div className="container-fluid aboutt text-center ">
                             <h1 className="namee mt-5">NWANKWO EMMANUEL</h1>
                         <p> <span className="mee1 ">FULLSTACK &nbsp; PYTHON &nbsp; WEB &nbsp; DEVELOPER </span> <br /></p>
-                        <a href="../assets2/Emma_Resume.pdf" className="btn btn-warning btn-center mt-2" download>Download Resume</a>
+                        <a href="../assets2/Emma_Resume.pdf" className="btn btn-warning btn-center mt-2" download=" ">Download Resume</a>
                     <p> <span className="typed" data></span></p>
                             <a className=" btn btn-center " href="#projects"><i className="fa fa-arrow-down gradient p-2 arrow"></i></a>
                     </div>
