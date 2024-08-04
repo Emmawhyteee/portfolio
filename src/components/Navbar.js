@@ -45,11 +45,11 @@ const Navbar = () => {
                                         Home
                                     </a>
                                 </li>
-                                <li className="nav-item ms-2">
+                                {/* <li className="nav-item ms-2">
                                     <a className="nav-link " href="#about" onClick={handleClick}>
                                         About
                                     </a>
-                                </li>
+                                </li> */}
                                 <li className="nav-item ms-2">
                                     <a className="nav-link" href="#myworks" onClick={handleClick}>
                                         Projects
