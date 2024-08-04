@@ -12,9 +12,9 @@ const Skills = () => {
       goto:"https://affordableluxury.pythonanywhere.com/",
     },
     {
-      Image: require("../assets2/foodapp.png"),
-      description: "Food Recipe website_API(Forks and Fingers)",
-      goto:"https://affordableluxury.pythonanywhere.com/",
+      Image: require("../assets2/engineering_fest.png"),
+      description: "Engineeringmeest Art",
+      goto:"https://ema-one.vercel.app",
     },
     {
       Image: require("../assets2/reactdemo.png"),
