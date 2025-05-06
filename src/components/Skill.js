@@ -1,4 +1,4 @@
-import img1 from "../assets2/mobile.png";
+import img1 from "../assets2/ghrifphone_image.jpg";
 import img2 from "../assets2/nextproject.png";
 import img3 from "../assets2/e-commerce.png";
 import img4 from '../assets2/foodapp.png'
@@ -7,9 +7,9 @@ import img5 from '../assets2/reactdemo.png'
 const Skills = () => {
   const Project = [
     {
-      Image:require("../assets2/e-commerce.png"),
-      description: "E-commerce website(Affordable luxury)",
-      goto:"https://affordableluxury.pythonanywhere.com/",
+      Image:require("../assets2/ghrif_image.png"),
+      description: "TeleMed website(GHRIF)",
+      goto:"ghrif.org",
     },
     {
       Image: require("../assets2/engineering_fest.png"),
@@ -17,7 +17,7 @@ const Skills = () => {
       goto:"https://ema-one.vercel.app",
     },
     {
-      Image: require("../assets2/reactdemo.png"),
+      Image: require("../assets2/loopstudio_image.png"),
       description: "Demo website(Affordable luxury)",
       goto:"https://my-react-demo-liart.vercel.app",
     },
@@ -49,7 +49,7 @@ const Skills = () => {
             <img src={img2} alt="project_direction" />
             <a
               className="btn btn-info ms-4 viewproj"
-              href="https://affordableluxury.pythonanywhere.com/"
+              href="ghrif.org"
             >
               View project
             </a>
