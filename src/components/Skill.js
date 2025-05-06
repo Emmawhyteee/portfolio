@@ -9,7 +9,7 @@ const Skills = () => {
     {
       Image:require("../assets2/ghrif_image.png"),
       description: "TeleMed website(GHRIF)",
-      goto:"ghrif.org",
+      goto:"https://ghrif.org/",
     },
     {
       Image: require("../assets2/engineering_fest.png"),
@@ -19,7 +19,7 @@ const Skills = () => {
     {
       Image: require("../assets2/loopstudio_image.png"),
       description: "Demo website(Affordable luxury)",
-      goto:"https://my-react-demo-liart.vercel.app",
+      goto:"https://loopstudio-khaki.vercel.app/",
     },
   ];
 
@@ -49,7 +49,7 @@ const Skills = () => {
             <img src={img2} alt="project_direction" />
             <a
               className="btn btn-info ms-4 viewproj"
-              href="ghrif.org"
+              href="https://ghrif.org/"
             >
               View project
             </a>
