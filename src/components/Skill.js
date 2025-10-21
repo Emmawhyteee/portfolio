@@ -49,7 +49,7 @@ const Skills = () => {
             <img src={img2} alt="project_direction" />
             <a
               className="btn btn-info ms-4 viewproj"
-              href="https://ghrif.org/"
+              href="https://telemed-delta.vercel.app/"
             >
               View project
             </a>
