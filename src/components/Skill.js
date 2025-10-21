@@ -9,16 +9,16 @@ const Skills = () => {
     {
       Image:require("../assets2/ghrif_image.png"),
       description: "TeleMed website(GHRIF)",
-      goto:"https://ghrif.org/",
+      goto:"https://telemed-delta.vercel.app/",
     },
     {
       Image: require("../assets2/engineering_fest.png"),
-      description: "Engineeringmeest Art",
+      description: "Engineeringmeets Art",
       goto:"https://ema-one.vercel.app",
     },
     {
       Image: require("../assets2/loopstudio_image.png"),
-      description: "Demo website(Affordable luxury)",
+      description: "loopstudio_Demo website(Affordable luxury)",
       goto:"https://loopstudio-khaki.vercel.app/",
     },
   ];
