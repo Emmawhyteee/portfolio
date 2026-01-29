@@ -3,7 +3,7 @@ import img2 from "../assets2/nextproject.png";
 import img3 from "../assets2/e-commerce.png";
 import img4 from '../assets2/foodapp.png'
 
-import img5 from '../assets2/bg..savorybites.png'
+import img5 from '../assets2/bg_savorybites.png'
 const Skills = () => {
   const Project = [
     {
@@ -12,7 +12,7 @@ const Skills = () => {
       goto:"https://telemed-delta.vercel.app/",
     },
     {
-      Image:require("../assets2/bg..savorybites.png"),
+      Image:require("../assets2/bg_savorybites.png"),
       description: "Savory Bites",
       goto:"https://thesavorybites.onrender.com/",
     },
@@ -82,7 +82,7 @@ const Skills = () => {
           </div>
         </div>
         {/* card loop_section */}
-        <div className="row row-cols-xl-3 loopcard"  data-aos="fade-up" data-aos-duration="3000">
+        <div className="row row-cols-xl-4 loopcard"  data-aos="fade-up" data-aos-duration="3000">
         {Project.map((proj => {
           return (
             <div className="col-10 col-sm-10 " >
