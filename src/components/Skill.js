@@ -2,14 +2,19 @@ import img1 from "../assets2/ghrifphone_image.jpg";
 import img2 from "../assets2/nextproject.png";
 import img3 from "../assets2/e-commerce.png";
 import img4 from '../assets2/foodapp.png'
-import img5 from '../assets2/reactdemo.png'
 
+import img5 from '../assets2/bg..savorybites.png'
 const Skills = () => {
   const Project = [
     {
       Image:require("../assets2/ghrif_image.png"),
       description: "TeleMed website(GHRIF)",
       goto:"https://telemed-delta.vercel.app/",
+    },
+    {
+      Image:require("../assets2/bg..savorybites.png"),
+      description: "Savory Bites",
+      goto:"https://thesavorybites.onrender.com/",
     },
     {
       Image: require("../assets2/engineering_fest.png"),
@@ -55,6 +60,16 @@ const Skills = () => {
             </a>
           </div>
 
+          <div className="ms-5 project_mobile features-image phone col-lg-4">
+            <img
+              src={img1}
+              height={400}
+              alt="project_mobile"
+              data-aos="flip-left"
+              data-aos-easing="ease-out-cubic"
+              data-aos-duration="2000"
+            />
+          </div>
           <div className="ms-5 project_mobile features-image phone col-lg-4">
             <img
               src={img1}
