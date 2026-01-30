@@ -3,7 +3,7 @@ import img2 from "../assets2/nextproject.png";
 import img3 from "../assets2/e-commerce.png";
 import img4 from '../assets2/foodapp.png'
 
-import img5 from '../assets2/bg_savorybites.png'
+import img5 from '../assets2/bg..savorybites.png'
 const Skills = () => {
   const Project = [
     {
