@@ -12,7 +12,7 @@ const Skills = () => {
       goto:"https://telemed-delta.vercel.app/",
     },
     {
-      Image:require("../assets2/bg_savorybites.png"),
+      Image:require("../assets2/bg..savorybites.png"),
       description: "Savory Bites",
       goto:"https://thesavorybites.onrender.com/",
     },
