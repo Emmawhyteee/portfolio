@@ -81,7 +81,7 @@ const Skills = () => {
             />
           </div>
         </div>
-        {/* card loop_section */}
+        {/* card loop_sectionn */}
         <div className="row row-cols-xl-4 loopcard"  data-aos="fade-up" data-aos-duration="3000">
         {Project.map((proj => {
           return (
